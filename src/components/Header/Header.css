@@ -19,6 +19,7 @@
       list-style: none;
       padding: 24px;
       cursor: pointer;
+      font-weight: 700;
     }
   }
 }
