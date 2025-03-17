@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+
+.logo > img {
+  height: 100px;
+  width: 150px;
+  cursor: pointer;
+}
+
+.navbar {
+  ul {
+    display: flex;
+
+    li {
+      list-style: none;
+      padding: 10px;
+      cursor: pointer;
+    }
+  }
+}
