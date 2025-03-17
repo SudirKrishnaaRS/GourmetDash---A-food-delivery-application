@@ -21,3 +21,17 @@
 .card {
   padding: 2em;
 } */
+
+body {
+  font-family: "Ysabeau Office", sans-serif;
+}
+
+.light-text {
+  font-family: "Ysabeau Office", sans-serif;
+  font-weight: 300;
+}
+
+.bold-text {
+  font-family: "Ysabeau Office", sans-serif;
+  font-weight: 700;
+}
