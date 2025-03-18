@@ -1,6 +1,7 @@
 import React from "react";
 import "./Header.css";
 import GourmetDashLogo from "../../assets/gourmet-dash-logo-transparent.png";
+import { MdOutlineShoppingCart } from "react-icons/md";
 
 const Header = () => {
   return (
@@ -17,7 +18,9 @@ const Header = () => {
           <li>Home</li>
           <li>About</li>
           <li>Contact Us</li>
-          <li>Cart</li>
+          <li>
+            <MdOutlineShoppingCart size="22px" />
+          </li>
         </ul>
       </div>
     </div>
